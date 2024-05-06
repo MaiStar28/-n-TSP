@@ -1,5 +1,5 @@
 # TSP Transformer
-Feb, 2021
+May, 2024
 <br>
 <br>
 
@@ -10,11 +10,6 @@ Feb, 2021
 
 ### Description
 PyTorch implementation of "The Transformer Network for the Traveling Salesman Problem"<br>
-Xavier Bresson and Thomas Laurent<br>
-ArXiv : [https://arxiv.org/pdf/2103.03012.pdf](https://arxiv.org/pdf/2103.03012.pdf) <br>
-Talk : [https://ipam.wistia.com/medias/0jrweluovs](https://ipam.wistia.com/medias/0jrweluovs) <br>
-Slides : [https://t.co/ySxGiKtQL5](https://t.co/ySxGiKtQL5)<br>
-<br>
 <br>
 
 
@@ -29,7 +24,7 @@ source ~/.bashrc
 
 # GitHub repo
 conda install git
-git clone https://github.com/xbresson/TSP_Transformer.git # clone repo
+git clone: https://github.com/MaiStar28/DoAn_TSP # clone repo
 cd TSP_Transformer
 conda env create -f environment_gpu.yml # install python environment (CUDA 10.1)
 conda activate tsp_transformer # activate environment
